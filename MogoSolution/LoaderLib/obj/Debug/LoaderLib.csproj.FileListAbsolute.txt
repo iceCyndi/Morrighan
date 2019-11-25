@@ -1,0 +1,10 @@
+E:\work\Unity\projects\mogo\Assets\Plugins\Libs\LoaderLib.dll
+E:\work\Unity\projects\mogo\Assets\Plugins\Libs\LoaderLib.pdb
+E:\work\Unity\projects\mogo\MogoSolution\LoaderLib\obj\Debug\LoaderLib.dll
+E:\work\Unity\projects\mogo\MogoSolution\LoaderLib\obj\Debug\LoaderLib.pdb
+E:\work\Unity\projects\mogo\app_Data\Managed\LoaderLib.dll
+E:\work\Unity\projects\mogo\app_Data\Managed\LoaderLib.pdb
+E:\work\Unity\projects\mogo\MogoSolution\temp\bin\LoaderLib.dll
+E:\work\Unity\projects\mogo\MogoSolution\temp\bin\LoaderLib.pdb
+E:\work\Unity\projects\mogo\Assets\Scripts\libs\LoaderLib.dll
+E:\work\Unity\projects\mogo\Assets\Scripts\libs\LoaderLib.pdb

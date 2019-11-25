@@ -1,0 +1,5 @@
+E:\work\Unity\projects\mogo\Assets\Scripts\libs\GameData.dll
+E:\work\Unity\projects\mogo\Assets\Scripts\libs\GameData.pdb
+E:\work\Unity\projects\mogo\MogoSolution\GameData\obj\Debug\GameData.csprojResolveAssemblyReference.cache
+E:\work\Unity\projects\mogo\MogoSolution\GameData\obj\Debug\GameData.dll
+E:\work\Unity\projects\mogo\MogoSolution\GameData\obj\Debug\GameData.pdb

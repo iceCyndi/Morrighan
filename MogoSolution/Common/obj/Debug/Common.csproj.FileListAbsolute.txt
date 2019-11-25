@@ -1,0 +1,5 @@
+E:\work\Unity\projects\mogo\Assets\Scripts\libs\Common.dll
+E:\work\Unity\projects\mogo\Assets\Scripts\libs\Common.pdb
+E:\work\Unity\projects\mogo\MogoSolution\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\work\Unity\projects\mogo\MogoSolution\Common\obj\Debug\Common.dll
+E:\work\Unity\projects\mogo\MogoSolution\Common\obj\Debug\Common.pdb
